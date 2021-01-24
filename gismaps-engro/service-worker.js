@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "precache-manifest.4dbaba82d0742347e832688bb85d54c6.js"
+  "precache-manifest.bb8887f736105f315385cb8558d17ec8.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "agg-maps"});
